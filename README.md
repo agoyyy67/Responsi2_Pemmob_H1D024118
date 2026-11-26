@@ -153,4 +153,4 @@ Seluruh data lokasi dan cuaca diambil secara dinamis menggunakan metode **HTTP G
 
 ## Video Penjelasan Kode
 
-- **Link Video:** *Tambahkan link video YouTube / Google Drive Anda di sini*
+- **Link Video:** *(https://youtu.be/hSAvOvefQJI)*
